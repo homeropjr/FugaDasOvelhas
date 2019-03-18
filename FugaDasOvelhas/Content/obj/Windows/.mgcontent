@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/player.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/sheep.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/dog.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/cow.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/horse.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/pig.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/cat.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/background.png</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/zapsplat_cartoon_ufo_hover.mp3</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/animals_pigs_grunt.wav</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/Cat-Meow.wav</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/horse-whinny.wav</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/scottish_highland_moo.wav</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/sheep_baa.wav</File>
+    <File>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/zapsplat_animals_dog.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

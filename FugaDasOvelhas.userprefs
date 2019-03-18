@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C45B903B-57B9-4943-B26B-CED88BD8B3EA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FugaDasOvelhas\Player.cs">
+    <Files>
+      <File FileName="FugaDasOvelhas\Game1.cs" Line="35" Column="1" />
+      <File FileName="FugaDasOvelhas\Player.cs" Line="26" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FugaDasOvelhas PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

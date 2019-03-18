@@ -1,0 +1,103 @@
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\FugaDasOvelhas.exe
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\FugaDasOvelhas.pdb
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.exe
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.pdb
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csprojAssemblyReference.cache
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csproj.CoreCompileInputs.cache
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csproj.CopyComplete
+C:\Users\homero.junior\Documents\Visual Studio 2010\Projects\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\sheep.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\sheep.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\FugaDasOvelhas.exe
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\FugaDasOvelhas.pdb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csprojAssemblyReference.cache
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csproj.CoreCompileInputs.cache
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csproj.CopyComplete
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.exe
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.pdb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\dog.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\cow.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\horse.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\pig.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\toon.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\cat.xnb
+C:\Users\homero\Documents\Projetos\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\background.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\animals_pigs_grunt.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\Cat-Meow.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\horse-whinny.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\scottish_highland_moo.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\sheep_baa.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\zapsplat_animals_dog.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\zapsplat_cartoon_ufo_hover.wma
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\Audio\zapsplat_cartoon_ufo_hover.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\background.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\cat.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\cow.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\dog.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\horse.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\pig.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\player.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\sheep.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\Content\toon.xnb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\FugaDasOvelhas.exe
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\FugaDasOvelhas.pdb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csproj.CoreCompileInputs.cache
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csproj.CopyComplete
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.exe
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.pdb
+C:\Git\FugaDasOvelhas\FugaDasOvelhas\obj\x86\Debug\FugaDasOvelhas.csprojAssemblyReference.cache
