@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/zapsplat_cartoon_ufo_hover.mp3</SourceFile>
-  <SourceTime>2019-03-15T09:37:42.2399976-03:00</SourceTime>
-  <DestFile>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Audio/zapsplat_cartoon_ufo_hover.xnb</DestFile>
-  <DestTime>2019-03-15T11:57:39.1072774-03:00</DestTime>
+  <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/zapsplat_cartoon_ufo_hover.mp3</SourceFile>
+  <SourceTime>2019-03-18T20:06:27.0684765-03:00</SourceTime>
+  <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Audio/zapsplat_cartoon_ufo_hover.xnb</DestFile>
+  <DestTime>2019-03-19T20:43:51.0317344-03:00</DestTime>
   <Importer>Mp3Importer</Importer>
-  <ImporterTime>2017-02-22T08:44:42-03:00</ImporterTime>
+  <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
   <Processor>SongProcessor</Processor>
-  <ProcessorTime>2017-02-22T08:44:42-03:00</ProcessorTime>
+  <ProcessorTime>2018-12-08T14:35:54-02:00</ProcessorTime>
   <Parameters>
     <Key>Quality</Key>
     <Value>Best</Value>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Audio/zapsplat_cartoon_ufo_hover.wma</string>
+    <string>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Audio/zapsplat_cartoon_ufo_hover.wma</string>
   </BuildOutput>
 </PipelineBuildEvent>

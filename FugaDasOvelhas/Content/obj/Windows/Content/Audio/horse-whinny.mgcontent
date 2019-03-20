@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/horse-whinny.wav</SourceFile>
+  <SourceTime>2019-03-18T20:06:27.0385764-03:00</SourceTime>
+  <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Content/Audio/horse-whinny.xnb</DestFile>
+  <DestTime>2019-03-18T20:11:16.2691046-03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T14:35:54-02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

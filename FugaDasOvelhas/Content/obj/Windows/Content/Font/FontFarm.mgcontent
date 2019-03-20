@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Font/FontFarm.spritefont</SourceFile>
+  <SourceTime>2018-12-08T14:35:46-02:00</SourceTime>
+  <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Content/Font/FontFarm.xnb</DestFile>
+  <DestTime>2019-03-19T21:00:28.97968-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T14:35:54-02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

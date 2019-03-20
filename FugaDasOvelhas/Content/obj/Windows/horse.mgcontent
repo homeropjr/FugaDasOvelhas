@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/horse.png</SourceFile>
-  <SourceTime>2019-03-15T01:21:49.7380895-03:00</SourceTime>
-  <DestFile>C:/Git/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/horse.xnb</DestFile>
-  <DestTime>2019-03-15T11:57:36.0782774-03:00</DestTime>
+  <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/horse.png</SourceFile>
+  <SourceTime>2019-03-18T20:06:27.1966535-03:00</SourceTime>
+  <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/horse.xnb</DestFile>
+  <DestTime>2019-03-19T20:43:53.6032524-03:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2017-02-22T08:44:42-03:00</ImporterTime>
+  <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2017-02-22T08:44:42-03:00</ProcessorTime>
+  <ProcessorTime>2018-12-08T14:35:54-02:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>
