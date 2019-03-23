@@ -42,16 +42,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
-    <Compile Include="Cat.cs" />
-    <Compile Include="Pig.cs" />
-    <Compile Include="Horse.cs" />
-    <Compile Include="Cow.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Player.cs" />
-    <Compile Include="Dog.cs" />
-    <Compile Include="Sheep.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">

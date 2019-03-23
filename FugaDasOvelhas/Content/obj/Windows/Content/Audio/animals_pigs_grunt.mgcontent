@@ -3,7 +3,7 @@
   <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/animals_pigs_grunt.wav</SourceFile>
   <SourceTime>2019-03-18T20:06:27.0304961-03:00</SourceTime>
   <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Content/Audio/animals_pigs_grunt.xnb</DestFile>
-  <DestTime>2019-03-18T20:11:15.2148744-03:00</DestTime>
+  <DestTime>2019-03-23T11:21:19.5986419-03:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

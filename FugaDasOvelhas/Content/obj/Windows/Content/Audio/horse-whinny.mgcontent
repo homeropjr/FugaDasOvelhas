@@ -3,7 +3,7 @@
   <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/horse-whinny.wav</SourceFile>
   <SourceTime>2019-03-18T20:06:27.0385764-03:00</SourceTime>
   <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Content/Audio/horse-whinny.xnb</DestFile>
-  <DestTime>2019-03-18T20:11:16.2691046-03:00</DestTime>
+  <DestTime>2019-03-23T11:21:22.4039171-03:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

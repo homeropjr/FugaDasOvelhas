@@ -3,7 +3,7 @@
   <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/scottish_highland_moo.wav</SourceFile>
   <SourceTime>2019-03-18T20:06:27.0604921-03:00</SourceTime>
   <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Content/Audio/scottish_highland_moo.xnb</DestFile>
-  <DestTime>2019-03-18T20:11:16.8209202-03:00</DestTime>
+  <DestTime>2019-03-23T11:21:23.1414636-03:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

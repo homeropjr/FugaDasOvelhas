@@ -3,7 +3,7 @@
   <SourceFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/Audio/zapsplat_animals_dog.wav</SourceFile>
   <SourceTime>2019-03-18T20:06:27.0654782-03:00</SourceTime>
   <DestFile>C:/Repositorio/FugaDasOvelhas/FugaDasOvelhas/Content/bin/Windows/Content/Audio/zapsplat_animals_dog.xnb</DestFile>
-  <DestTime>2019-03-18T20:11:17.8132911-03:00</DestTime>
+  <DestTime>2019-03-23T11:21:26.4484284-03:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
